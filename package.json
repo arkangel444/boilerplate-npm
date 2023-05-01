@@ -1,6 +1,7 @@
 {
-	"author": "John Doe",
 	"name": "fcc-learn-npm-package-json",
+	"author": "John Doe",
+	"description": "To practice npm and package management.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
