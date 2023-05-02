@@ -2,6 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "John Doe",
 	"description": "To practice npm and package management.",
+	"keywords": ["freecodecamp","npmpractice"],
+	"license": "MIT",
+	"version": "1.2.13",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
